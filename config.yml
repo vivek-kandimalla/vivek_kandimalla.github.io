@@ -84,7 +84,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: saivivek.kandimalla21@iimb.ac.in 
+          url: mailto:saivivek.kandimalla21@iimb.ac.in 
         # - name: CV
         #   url: cv.pdf
         # - name: Google Scholar
